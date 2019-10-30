@@ -1,0 +1,41 @@
+
+.list-group {
+    width: 250px;
+}
+
+h1 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+#search-bar {
+    margin-right: 0px;
+}
+
+input {
+    margin: auto;
+}
+
+#button {
+    margin: auto;
+}
+
+.card {
+    float: left;
+}
+
+.card-deck {
+    padding: 0px 0px 10px 0px;
+}
+
+.col-8 {
+    margin-top: 100px;
+}
+
+.title {
+    color: white;
+}
+
+.navBar {
+    height: 50px;
+}
